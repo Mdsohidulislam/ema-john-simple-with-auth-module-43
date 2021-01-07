@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+.loginDiv{
+  text-align: center;
+}
+.button, .btn{
+  padding: 10px 50px;
+  border: none;
+  outline: none;
+  background-color: #ff88cc;
+  color: white;
+  cursor: pointer;
+  border-radius: 2px;
+}
+.sign-in-and-out{
+  max-width: 450px;
+  box-sizing: border-box;
+  margin: 10px auto;
+  padding: 10px;
+  border: 2px dotted orangered; 
+}
+.signUp-signIn-container{
+  text-align: start; 
+  width: 300px;
+  margin: 20px auto;
+  padding: 30px 0 30px 40px;
+}
